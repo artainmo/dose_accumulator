@@ -1,2 +1,2 @@
 # Dose accumulator
-Python programs to calculate dose accumulation from half-life and daily dose but also dose clearance.
+Python programs to calculate dose accumulation and clearance from half-life and daily dose.
