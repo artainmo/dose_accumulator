@@ -1,4 +1,4 @@
-daily_dose = float(input("Daiy dose: "))
+daily_dose = float(input("Daily dose: "))
 half_life = float(input("Half life in hours: "))
 print("")
 
